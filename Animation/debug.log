@@ -1,0 +1,2 @@
+[0611/050801.746:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0611/070153.695:ERROR:file_io.cc(134)] WriteFile: Le canal de communication est sur le point d’être fermé. (0xE8)
